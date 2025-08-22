@@ -1,10 +1,14 @@
-# BID
-Bias Intervention Dataset
+# Exploring Causal Effect of Social Bias on Faithfulness Hallucinations (CIKM 2025)
+
+> This repo hosts the official (soon) data for our CIKM 2025 paper:  
+> **Exploring Causal Effect of Social Bias on Faithfulness Hallucinations in Large Language Models**.  
+> 📄 Paper: [arXiv:2508.07753](https://arxiv.org/abs/2508.07753)
+
 
 ## TODO / Roadmap
 
 <!-- Badges -->
-![datasets](https://img.shields.io/badge/datasets-0%2F6-lightgrey)
+![datasets](https://img.shields.io/badge/datasets-0%2F5-lightgrey)
 ![metrics](https://img.shields.io/badge/metrics-0%2F2-lightgrey)
 ![docs](https://img.shields.io/badge/docs-in%20progress-yellow)
 
