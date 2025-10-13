@@ -17,11 +17,11 @@
 <details open>
 <summary><b>📦 Datasets — add five more</b></summary>
 
-- [ ] 🚧 **Dataset Age**
-- [ ] 🚧 **Dataset SES**
-- [ ] 🚧 **Dataset Gender** 
-- [ ] 🚧 **Dataset Religion** 
-- [ ] 🚧 **Dataset Disability**
+- [ ] ✅ **Dataset Age**
+- [ ] ✅ **Dataset SES**
+- [ ] ✅ **Dataset Gender** 
+- [ ] ✅ **Dataset Religion** 
+- [ ] ✅ **Dataset Disability**
 
 </details>
 
