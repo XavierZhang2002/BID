@@ -1,9 +1,14 @@
 # Exploring Causal Effect of Social Bias on Faithfulness Hallucinations (CIKM 2025)
+<!-- Badges -->
+![datasets](https://img.shields.io/badge/datasets-5%2F5-lightgrey)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.07753-b31b1b.svg)](https://arxiv.org/abs/2508.07753)
+[![CIKM 2025](https://img.shields.io/badge/CIKM-2025-blue)](https://cikm2025.org/)
 
 
-## 📖 Project Overview
+## 📖 Overview
 
 This repository contains (soon) the official resources for the paper ​​"**Exploring Causal Effect of Social Bias on Faithfulness Hallucinations in Large Language Models**"​​ accepted at CIKM 2025.
+
 This research presents the first systematic investigation into the causal relationship between social bias and faithfulness hallucinations in Large Language Models (LLMs), introducing a novel causal inference framework based on Structural Causal Models (SCM) and the Bias Intervention Dataset (BID).
 > 📄 Paper: [arXiv:2508.07753](https://arxiv.org/abs/2508.07753)
 
@@ -27,16 +32,12 @@ Supports systematic causal analysis across multiple models and bias types
 ​​Scale​​: 11k+ carefully constructed instances
 ​​Bias Coverage​​: Age, Gender, Disability, Religion, Socioeconomic Status (SES)
 ​​Key Features​​: Controlled bias states, paired intervention design, unfairness hallucination annotations ![](./assets/main_figure_1213.png)
+
 4. Discovery of Unfairness Hallucinations: ​​First formal definition​​ of unfairness hallucinations
 Revealed that bias primarily affects unfairness hallucinations with no significant effect on common hallucinations
 Discovered that unfairness hallucinations exhibit higher model confidence, making them harder to detect
 
 ## TODO / Roadmap
-
-<!-- Badges -->
-![datasets](https://img.shields.io/badge/datasets-0%2F5-lightgrey)
-![metrics](https://img.shields.io/badge/metrics-0%2F2-lightgrey)
-![docs](https://img.shields.io/badge/docs-in%20progress-yellow)
 
 > **Legend:** ⏳ planned · 🚧 in progress · ✅ done
 
